@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+out/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+*.class
+
+#hibernate
+hibernate.cfg.xml
+
+APICredentials.java
+
+
+/build/
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 4433de772a65c53cc7d6087a059cd3efdd647cc8
